@@ -756,8 +756,8 @@ DONATE_PARAMS = {
     'en-US': {
         'currency': 'usd',
         'symbol': '$',
-        'presets': '50,30,20,10',
-        'default': '30'
+        'presets': '20,10,5,3',
+        'default': '10'
     },
     'an': {
         'currency': 'eur',
